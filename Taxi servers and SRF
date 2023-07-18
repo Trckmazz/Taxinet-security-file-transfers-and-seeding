@@ -1,0 +1,9 @@
+Taxinet is a file download application with the capabilities to teach a newcomer on
+basic server side request forgery. It is a unique experience to train new Cybersecurity interns on the growing and evolved cyber world.
+One of the most interesting features is seeding. 
+"Seeding is a practice within peer-to-peer file sharing, a content distribution model that connects computers with the use of a peer-to-peer (P2P) software program in order to share desired content." - google
+
+You can start a mini cloud server but doing this can cause security risks for all those. The concept and design is endless. Personally ive used it to understand internet traffic and create a data base of users 
+surfing the internet. Highly effective for monotoring bad actors.
+
+If you want to know more, comment down below! :)
